@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
 
-## // about me
+##  About me
 
 I'm a developer who believes in building with purpose — every line of code is intentional, every project a new adventure. I thrive at the intersection of **backend logic** and **frontend experience**, turning ideas into polished, real-world products.
 
@@ -59,7 +59,7 @@ I'm a developer who believes in building with purpose — every line of code is 
 
 <img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
 
-## // currently
+##  Currently
 
 | | |
 |---|---|
@@ -69,19 +69,7 @@ I'm a developer who believes in building with purpose — every line of code is 
 
 <img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
 
-## // github stats
 
-<div align="center">
-
-[![GitHub Activity](https://img.shields.io/github/last-commit/Wildre-F/Wildre-F?label=Last%20Updated&style=flat-square&color=5c5fd4)](https://github.com/Wildre-F)
-[![GitHub followers](https://img.shields.io/github/followers/Wildre-F?style=flat-square&color=1d9e75&label=Followers)](https://github.com/Wildre-F)
-[![GitHub stars](https://img.shields.io/github/stars/Wildre-F?style=flat-square&color=ff69b4&label=Total%20Stars)](https://github.com/Wildre-F)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
-
-## // contribution snake
 <div align="center">
   
 ![snake gif](https://github.com/Wildre-F/Wildre-F/blob/output/github-snake-dark.svg)
@@ -90,7 +78,7 @@ I'm a developer who believes in building with purpose — every line of code is 
 
 <img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
 
-## // let's connect
+##  Let's connect
 
 <div align="center">
 
