@@ -11,53 +11,22 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
+
 
 ##  About me
 
 I'm a developer who believes in building with purpose — every line of code is intentional, every project a new adventure. I thrive at the intersection of **backend logic** and **frontend experience**, turning ideas into polished, real-world products.
 
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,html,css,nodejs,express" /><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,postgres,docker,git,github,vscode,postman" /><br/>
+  <img src="https://skillicons.dev/icons?i=anaconda,jupyter" />
+</div>
 <img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
 
-## // tech stack
 
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-</p>
-
-**Mobile & ML**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
-</p>
-
-**Tools & Other**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-</p>
-
-<img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
 
 ##  Currently
 
@@ -67,7 +36,7 @@ I'm a developer who believes in building with purpose — every line of code is 
 | 🔨 **Building** | Full-stack projects |
 | 👀 **Looking for** | Internship / Junior role |
 
-<img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
+
 
 
 <div align="center">
@@ -76,7 +45,7 @@ I'm a developer who believes in building with purpose — every line of code is 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
+
 
 ##  Let's connect
 
@@ -92,7 +61,7 @@ Let's connect — open to collaborations, coffee chats, and career opportunities
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888780&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+great+together." alt="Footer" />
