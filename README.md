@@ -24,7 +24,7 @@ I'm a developer who believes in building with purpose — every line of code is 
   <img src="https://skillicons.dev/icons?i=flutter,dart,postgres,docker,git,github,vscode,postman" /><br/>
   <img src="https://skillicons.dev/icons?i=anaconda,jupyter" />
 </div>
-<img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
+
 
 
 
