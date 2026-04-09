@@ -22,7 +22,7 @@ I'm a developer who believes in building with purpose — every line of code is 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,html,css,nodejs,express" /><br/>
   <img src="https://skillicons.dev/icons?i=flutter,dart,postgres,docker,git,github,vscode,postman" /><br/>
-  <img src="https://skillicons.dev/icons?i=anaconda,wordpress" />
+  <img src="https://skillicons.dev/icons?i=anaconda,wordpress,delphi" />
 </div>
 
 
