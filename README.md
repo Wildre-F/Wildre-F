@@ -83,7 +83,9 @@ I'm a developer who believes in building with purpose — every line of code is 
 
 ## // contribution snake
 <div align="center">
+  
 ![snake gif](https://github.com/Wildre-F/Wildre-F/blob/output/github-snake-dark.svg)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/Wildre-F/Wildre-F/output/wave.svg" />
