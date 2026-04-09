@@ -47,6 +47,16 @@ I'm a developer who believes in building with purpose — every line of code is 
 
 
 
+##  Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| [KMeans Calculator](https://github.com/Wildre-F/KMeans-Calculator) | Interactive K-Means Clustering tool that visualises iteration tables and final cluster graph | C# · .NET 8 · Visual Studio |
+
+</div>
+
 ##  Let's connect
 
 <div align="center">
