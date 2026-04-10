@@ -54,6 +54,7 @@ I'm a developer who believes in building with purpose — every line of code is 
 | Project | Description | Tech |
 |---|---|---|
 | [KMeans Calculator](https://github.com/Wildre-F/KMeans-Calculator) | Interactive K-Means Clustering tool that visualises iteration tables and final cluster graph | C# · .NET 8 · Visual Studio |
+| [VoltEquilibrium](https://github.com/Wildre-F/VoltEquilibrium) | Smart green energy IoT dashboard with weather predictions and community power sharing | Node.js · PostgreSQL · MQTT · Docker |
 
 </div>
 
